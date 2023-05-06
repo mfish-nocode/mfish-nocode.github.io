@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as l,V as i}from"./chunks/framework.81c1129f.js";const m=JSON.parse('{"title":"快速了解","description":"","frontmatter":{},"headers":[],"relativePath":"frame/index.md","lastUpdated":1683125030000}'),n={name:"frame/index.md"},s=i("",24),r=[s];function t(o,p,c,h,d,u){return l(),e("div",null,r)}const f=a(n,[["render",t]]);export{m as __pageData,f as default};
