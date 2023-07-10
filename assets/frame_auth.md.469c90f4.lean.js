@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,V as c}from"./chunks/framework.693de51f.js";const m=JSON.parse('{"title":"登录认证","description":"","frontmatter":{},"headers":[],"relativePath":"frame/auth.md","lastUpdated":1683766567000}'),o={name:"frame/auth.md"},s=c("",11),i=[s];function r(l,n,d,p,h,_){return t(),e("div",null,i)}const f=a(o,[["render",r]]);export{m as __pageData,f as default};
